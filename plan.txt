@@ -1,0 +1,11 @@
+to do:
+
+1. npm install
+2. create index, css, js files
+3.  install dependencies ,express,nodemone
+4.create express server
+5. do frontend  part
+6. install socket.io, set up socket.io in server.js and client .js
+7. client send message logic in client.js
+8.  Receive message on server and broadcat to al client
+9. receive message on client and display to scrollvbutton etx.
